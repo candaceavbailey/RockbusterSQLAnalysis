@@ -1,4 +1,4 @@
-# Achievement3SQL
+# Achievement 3 SQL
 SQL queries parsing insights from Rockbuster Stealth database
 
 # Project Details
