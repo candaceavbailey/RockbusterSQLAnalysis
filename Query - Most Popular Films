@@ -1,0 +1,15 @@
+SELECT A.title,			
+	COUNT(A.film_id) AS "rental_frequency",		
+	A.rental_rate,		
+	SUM(D.amount) AS "film_revenue"		
+FROM film A			
+	INNER JOIN inventory B		
+	ON A.film_id = B.film_id		
+	INNER JOIN rental C		
+	ON B.inventory_id = C.inventory_id		
+	INNER JOIN payment D		
+	ON C.rental_id = D.rental_id		
+GROUP BY title, rental_rate			
+ORDER BY film_revenue DESC			
+LIMIT 10;			
+
