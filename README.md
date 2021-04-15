@@ -17,8 +17,8 @@ Data analyst - To help Rockbuster Stealth's business intelligence (BI) departmen
 >Produce a detailed presentation for the marketing department to guide decisions. Used: Tableau and Google Slides
 
 #### Key questions answered through queries
-> Which movies contributed the most/least to revenue gain?
-> What was the average rental duration for all videos?
-> Which countries are Rockbuster customers based in?
-> Where are customers with high lifetime value based?
-> Do sales figures vary between grographic regions?
+> * Which movies contributed the most/least to revenue gain?
+> * What was the average rental duration for all videos?
+> * Which countries are Rockbuster customers based in?
+> * Where are customers with high lifetime value based?
+> * Do sales figures vary between grographic regions?
