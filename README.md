@@ -1,6 +1,10 @@
 # Rockbuster Database Analysis using SQL
 SQL queries parsing insights from Rockbuster Stealth database
 
+Tableau storyboard presentation [link]
+
+[link]:https://public.tableau.com/views/RockbusterStats_16132617524720/RockbusterStrategyVisuals?:language=en&:display_count=y&:origin=viz_share_link
+
 # Project Details
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. 
 
